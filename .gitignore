@@ -1,0 +1,10 @@
+
+*.classpath
+*.project
+*.class
+*.exe
+*.dll
+*.so
+
+openseed/.gitignore
+openseed/bin/*
